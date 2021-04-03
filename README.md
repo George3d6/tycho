@@ -8,7 +8,8 @@ Tycho is a side project that I aim to integrated into mindsdb's lightwood https:
 
 ## Usage
 
-[See this example](test/func/simple.py)
+1. Add the repo to your `PYTHONPATH`
+2. [See this example](test/func/simple.py)
 
 ## Configuration
 For logging level set the env variable `TYCHO_LOG_LEVEL` to whatever log level you want. | Default: DEBUG
