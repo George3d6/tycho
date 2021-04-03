@@ -4,7 +4,7 @@ Tycho is an attempt at applying boosting techniques to a variety of models (curr
 
 Tycho is also the python prototype for a Rust library that I aim to release at some point (I swear) in order to try and improve on the performances allowed by torch and tensorflow as well as have added compile-time safety.
 
-Tycho is a side project that I aim to integrated into mindsdb's lightwood https://github.com/mindsdb/lightwood if the results are good enough, so I'd encourage you to use that for now if you want a generic nn+torch based solution to a variety of ML problems (it also has built in support for text, images, array, dates, audio... etc, tycho only supports categorical and numerical)
+Tycho is a side project that I aim to integrated into [mindsdb's lightwood](https://github.com/mindsdb/lightwood) if the results are good enough, so I'd encourage you to use that for now if you want a generic nn+torch based solution to a variety of ML problems (it also has built in support for text, images, array, dates, audio... etc, tycho only supports categorical and numerical)
 
 ## Usage
 
